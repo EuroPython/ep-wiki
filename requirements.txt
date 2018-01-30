@@ -1,0 +1,3 @@
+Genshi==0.7
+Pygments==2.2.0
+Trac==1.0.15
