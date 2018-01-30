@@ -6,7 +6,9 @@ This is the Trac wiki used for EuroPython conferences.
 Installation
 ------------
 
-TBD
+virtualenv epwiki-env
+epwiki-env/bin/pip install --upgrade pip
+epwiki-env/bin/pip install -r requirements.txt
 
 Environment:
 
